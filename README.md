@@ -1,2 +1,7 @@
-# Awesome-Talking-Face
-Awesome-Talking-Face
+# Talking Face
+
+
+
+# References
+- https://github.com/JosephPai/
+
